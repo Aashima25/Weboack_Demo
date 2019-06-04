@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutPage = () => (
   <div>
-    <p> We are in about page</p>
+    <h1>We are in about page</h1>
   </div>
 );
 
